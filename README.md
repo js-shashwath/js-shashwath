@@ -1,6 +1,7 @@
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=js-shashwath/js-shashwath)](https://github.com/js-shashwath/js-shashwath) [![GitHub followers](https://img.shields.io/github/followers/js-shashwath/js-shashwath.svg?style=social&label=Follow)](https://github.com/js-shashwath/js-shashwath?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=js-shashwath)](https://github.com/js-shashwath)
+[![GitHub followers](https://img.shields.io/github/followers/js-shashwath.svg?style=social&label=Follow)](https://github.com/js-shashwath?tab=followers)
 
 I'm Shashwath! 
 - <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
