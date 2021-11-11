@@ -52,7 +52,7 @@ Check out the GitHub repository:
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=js-shashwath" alt="GitHub Stats" /> <br/><br/>
   <b><em>My Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=js-shashwath" alt="WakaTime" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shash" alt="WakaTime" />
   </p>
 </div>
 
