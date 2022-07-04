@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/js-shashwath.svg?style=social&label=Follow)](https://github.com/js-shashwath?tab=followers)
 
 I'm Shashwath! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
+- <i>Currently:</i> Dev @ Amazon Alexa. 
 - <i>Previously:</i> Full Stack Software Engineer at Deloitte.
 
 ### Tech stack
